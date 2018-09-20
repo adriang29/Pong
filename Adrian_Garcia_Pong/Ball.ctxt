@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ball()
+comment1.params=x\ y
+comment1.target=Ball(int,\ int)
+comment10.params=
+comment10.target=int\ get_ySpeed()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=x\ y\ w\ h
+comment2.target=Ball(int,\ int,\ int,\ int)
+comment3.params=x\ y\ w\ h\ col
+comment3.target=Ball(int,\ int,\ int,\ int,\ java.awt.Color)
+comment4.params=x\ y\ w\ h\ col\ xSpd\ ySpd
+comment4.target=Ball(int,\ int,\ int,\ int,\ java.awt.Color,\ int,\ int)
+comment5.params=x
+comment5.target=void\ set_xSpeed(int)
+comment6.params=y
+comment6.target=void\ set_ySpeed(int)
+comment7.params=window
+comment7.target=void\ moveAndDraw(java.awt.Graphics)
+comment8.params=obj
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=int\ get_xSpeed()
+numComments=12

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SpeedUpBall()
+comment1.params=x\ y
+comment1.target=SpeedUpBall(int,\ int)
+comment2.params=x\ y\ xSpd\ ySpd
+comment2.target=SpeedUpBall(int,\ int,\ int,\ int)
+comment3.params=x\ y\ wid\ ht\ xSpd\ ySpd
+comment3.target=SpeedUpBall(int,\ int,\ int,\ int,\ int,\ int)
+comment4.params=x\ y\ wid\ ht\ col\ xSpd\ ySpd
+comment4.target=SpeedUpBall(int,\ int,\ int,\ int,\ java.awt.Color,\ int,\ int)
+comment5.params=xSpd
+comment5.target=void\ setXSpeed(int)
+comment6.params=ySpd
+comment6.target=void\ setYSpeed(int)
+numComments=7
